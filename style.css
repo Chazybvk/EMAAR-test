@@ -78,7 +78,7 @@ p {
 }
 /*1 Страница*/
 .firstSection {
-	background: url("img/firstSectionBg.png") center / cover no-repeat;
+	background: url("img/FirstSectionBg.jpg") center / cover no-repeat;
 }
 .firstSectionBlock {
 	display: flex;
